@@ -19,9 +19,9 @@ Becouse My Converter is not better than Google transfer.
 これらは現在更新はしていないのでこちらが最新のものになります。
 
 - 直接検出したいものを指示して検出
-(https://github.com/samacoba/detector)
+https://github.com/samacoba/detector
 
 - お米をDiscoGANで教師なしでカウント
-(https://github.com/samacoba/detector)
+https://github.com/samacoba/detector
 
 
