@@ -17,7 +17,7 @@ Becouse My Converter is not better than Google transfer.
 
 ## 関連リポジトリ
 
-これらは現在更新はしていないのでこちらが最新のものになります。
+これらは現在更新はしていないのでこちらが最新のものになる予定です。
 
 - 直接検出したいものを指示して検出
 https://github.com/samacoba/detector
