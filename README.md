@@ -21,7 +21,7 @@ Becouse My Converter is not better than Google transfer.
 - 直接検出したいものを指示して検出
 https://github.com/samacoba/detector
 
-- お米をDiscoGANで教師なしでカウント
-https://github.com/samacoba/detector
+- お米をDiscoGANを使って教師なしでカウント
+https://github.com/samacoba/DiscoGAN_counter
 
 
