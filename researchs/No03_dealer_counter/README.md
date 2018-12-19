@@ -1,6 +1,6 @@
 # Dealer counter
 M3ナットなど、いろいろカウントします
-<img src="/sample.png">
+<img src="sample.png">
 
 Qiita解説：https://qiita.com/samacoba/items/6c65651696e322b51edd
 
