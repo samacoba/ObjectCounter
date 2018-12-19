@@ -27,4 +27,6 @@ https://github.com/samacoba/DiscoGAN_counter
 - NO03_ディーラ（仮）を使ってM3ナットのカウント
 https://github.com/samacoba/ObjectCounter/tree/master/researchs/No03_dealer_counter
 
+※No01,02に関しては現在更新はしておらず、こちらのリポジトリに将来統合する予定です。
+
 
