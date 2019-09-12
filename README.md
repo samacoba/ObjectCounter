@@ -15,7 +15,7 @@ Becouse My Converter is not better than Google transfer.
 - [DiscoGANを使ってお米カウントの別の見方 2018.8.9 Github](./docs/doc001.md)
 - [Chainerを使って博士研究はじめました 2018.12.15 Slideshare](https://www.slideshare.net/samacoba1983/chainer-125935410)
 - [Chainerを使ってM3ナットをカウントしてみる 2018.12.16 Qiita](https://qiita.com/samacoba/items/6c65651696e322b51edd)
-- [敵対的生成ネットワークを用いた教師なし物体カウント(スライドPDF) 2019.9.13 Github ](./docs/comps/20190913_gan_count.pdf)
+- [敵対的生成ネットワークを用いた教師なし物体カウント 2019.9.13 Github ](./docs/comps/20190913_gan_count.pdf)
 
 ## 関連コード
 
