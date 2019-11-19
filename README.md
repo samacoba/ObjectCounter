@@ -16,6 +16,7 @@ Becouse My Converter is not better than Google transfer.
 - [Chainerを使って博士研究はじめました 2018.12.15 Slideshare](https://www.slideshare.net/samacoba1983/chainer-125935410)
 - [Chainerを使ってM3ナットをカウントしてみる 2018.12.16 Qiita](https://qiita.com/samacoba/items/6c65651696e322b51edd)
 - [敵対的生成ネットワークを用いた教師なし物体カウント 2019.9.13 Github ](./docs/comps/20190913_gan_count.pdf)
+- [IBIS2019でポスター発表してきます 2019.11.19 Github ](https://samacoba.github.io/20191119ibis)
 
 ## 関連コード
 
@@ -28,6 +29,10 @@ https://github.com/samacoba/DiscoGAN_counter
 - NO03_ディーラ（仮）を使ってM3ナットのカウント
 https://github.com/samacoba/ObjectCounter/tree/master/researchs/No03_dealer_counter
 
-※No01,02に関しては現在更新はしておらず、こちらのリポジトリに将来統合する予定です。
+- NO04_２クラスの物体検出とクラス分け
+https://github.com/samacoba/ObjectCounter/tree/master/researchs/No04_2classify
+
+
+※No01,02に関しては現在更新はしておらず、こちらのリポジトリに将来統合するかもしれません
 
 
