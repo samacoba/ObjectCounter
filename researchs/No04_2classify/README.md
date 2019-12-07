@@ -1,6 +1,10 @@
 # 2classfy
 教師なしで２クラスの物体検出とクラス分けをします
 
+関連ドキュメント
+
+https://samacoba.github.io/20191119ibis/
+
 <img src="sample.png">
 
 
