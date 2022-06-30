@@ -18,6 +18,8 @@ Becouse My Converter is not better than Google transfer.
 - [敵対的生成ネットワークを用いた教師なし物体カウント 2019.9.13 Github ](./docs/comps/20190913_gan_count.pdf)
 - [IBIS2019でポスター発表してきます 2019.11.19 Github ](https://samacoba.github.io/20191119ibis)
 
+- [教師なし物体検出についての実験まとめ 2022.6.30 Github ](https://samacoba.github.io/20220630report)
+
 ## 関連コード
 
 - No01_直接検出したいものを指示して検出
@@ -26,13 +28,15 @@ https://github.com/samacoba/detector
 - No02_お米をDiscoGANを使って教師なしでカウント
 https://github.com/samacoba/DiscoGAN_counter
 
-- NO03_ディーラ（仮）を使ってM3ナットのカウント
+- No03_ディーラ（仮）を使ってM3ナットのカウント
 https://github.com/samacoba/ObjectCounter/tree/master/researchs/No03_dealer_counter
 
-- NO04_２クラスの物体検出とクラス分け
+- No04_２クラスの物体検出とクラス分け(chainer)
 https://github.com/samacoba/ObjectCounter/tree/master/researchs/No04_2classify
 
+- No05_２クラスの物体検出とクラス分け(pytorch)
+https://github.com/samacoba/2classify
 
-※No01,02に関しては現在更新はしておらず、こちらのリポジトリに将来統合するかもしれません
+
 
 
